@@ -1,2 +1,2 @@
 # Hello World Program
-Print(Hello World);
+Print(Hello World)
